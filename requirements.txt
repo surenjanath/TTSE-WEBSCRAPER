@@ -1,0 +1,5 @@
+bs4
+Js2Py
+pandas
+requests
+SQLAlchemy
